@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mighdad
-- 👀 I’m interested in Machine Learning Engineer & Fullstack Web Developer
+- 👀 I’m interested in Machine Learning & Fullstack Web Developer
 - 🌱 I’m currently learning about Backend Developer
 - 💞️ I’m looking to collaborate on programmer pro
 - 📫 How to reach me email mr.mighdadjaba@gmail.com
